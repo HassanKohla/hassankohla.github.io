@@ -24,13 +24,13 @@ repository               : "hassankohla/hassankohla.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Hassan Kohla"
+  pronouns         : # example: "Eng."  
+  bio              : "Teaching Assistant @ERU"
+  location         : "Egypt, Cairo"
+  employer         : "Egyptian Russian Univeristy"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "hassan-said@eru.edu.eg" 
 
   # Academic websites
   academia         : # URL
